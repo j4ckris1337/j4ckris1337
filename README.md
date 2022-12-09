@@ -7,3 +7,4 @@
 My Gitbook: [https://hackzzz.gitbook.io](https://hackzzz.gitbook.io)<br>
 My GitPage: [https://j4ckris1337.github.io](https://j4ckris1337.github.io)
 
+![](https://github.com/j4ckris1337/j4ckris1337.github.io/raw/master/assets/images/hackthebox.webp)
